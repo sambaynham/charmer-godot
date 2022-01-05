@@ -88,10 +88,12 @@ public class Player : Area2D
 		Show();
 		GetNode<CollisionShape2D>("CollisionShape2D").Disabled = false;
 	}
+	
+	
+	private void game_over()
+	{
+		// Replace with function body.
+	}
 }
 
 
-private void game_over()
-{
-	// Replace with function body.
-}
