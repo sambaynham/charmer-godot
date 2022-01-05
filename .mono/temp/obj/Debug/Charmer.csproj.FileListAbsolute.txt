@@ -1,0 +1,8 @@
+/home/sbaynham/Godot/Charmer/.mono/temp/bin/Debug/Charmer.dll
+/home/sbaynham/Godot/Charmer/.mono/temp/bin/Debug/Charmer.pdb
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.csprojAssemblyReference.cache
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.AssemblyInfoInputs.cache
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.AssemblyInfo.cs
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.csproj.CoreCompileInputs.cache
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.dll
+/home/sbaynham/Godot/Charmer/.mono/temp/obj/Debug/Charmer.pdb
